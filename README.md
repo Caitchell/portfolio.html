@@ -8,16 +8,19 @@
 
 ## Technologies Used
 
+* HTML
+* CSS
+
 ####
 
 ## Setup/Installation
 
-####
+#### 
 
 ## Known Bugs
 
-####
+#### None.
 
 ## License
 
-####
+#### MIT
