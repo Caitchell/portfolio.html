@@ -1,62 +1,120 @@
+.title {
+  margin: auto;
+  width: 80%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  box-sizing: border-box;
+}
+
 p {
-margin: auto;
-width: 50%;
-text-align: center;
+  margin: auto;
+  width: 80%;
+  Font-family: courier;
+  text-align: center;
 }
 
 h1 {
   margin: auto;
-  width: 50%;
+  width: 80%;
+  Font-family: courier;
+  text-align: center;
+}
+
+.box1 {
+  margin: auto;
+  width: 80%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.box3 {
+  margin: auto;
+  width: 80%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.projects {
+  margin: auto;
+  margin-bottom: 10px;
+  width: 80%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  box-sizing: border-box;
 }
 
 h2 {
   margin: auto;
-  width: 50%;
+  width: 80%;
+  text-align: center;
+}
+
+.projects2{
+  margin: auto;
+  width: 80%;
+  padding: 4px;
+  text-align: left;
 }
 
 li {
   margin: auto;
-  width: 50%;
+  width: 80%;
 }
 
 ol {
   margin: auto;
-  width: 50%;
+  width: 80%;
+  text-align: left;
 }
 
 ul {
   margin: auto;
-  width: 50%;
+  width: 80%
+}
+
+.hobbies {
+  margin: auto;
+  width: 80%;
+}
+
+.hobbies2 {
+  margin: auto;
+  width: 80%;
 }
 
 .important {
   margin: auto;
-  width: 50%;
+  width: 80%;
+  Font-family: courier;
 }
 
 .centered-img {
   float: center;
-  width: 50%;
+  width: 80%;
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
   margin: auto;
-  box-sizing: border-box;
+  
 }
 
 .centered-himg {
   float: center;
-  width: 50%;
+  width: 80%;
+  margin: auto;
   border: 15px solid rgb(82, 104, 67);
   padding: 8px;
-  margin: auto;
+  background-color:rgb(173, 158, 228);
   box-sizing: border-box;
 }
 
 body {
   background-color:rgb(110, 84, 62);
   width: 80%;
+  Font-family: courier;
   border: 15px solid rgb(173, 158, 228);
-  padding: 8px;
+  padding: 10px;
   margin: auto;
   box-sizing: border-box;
 }
