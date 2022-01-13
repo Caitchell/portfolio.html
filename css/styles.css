@@ -4,6 +4,7 @@
   float: center;
   width: 80%;
   border: 15px solid rgb(194, 173, 149);
+  background-color:rgb(110, 84, 62);
   padding: 20px;
   box-sizing: border-box;
 }
@@ -33,6 +34,7 @@ h1 {
   margin-top: 1%;
   margin-bottom: 1%;
   width: 80%;
+  background-color:rgb(110, 84, 62);
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
   box-sizing: border-box;
@@ -41,6 +43,7 @@ h1 {
 .box3 {
   margin: auto;
   width: 80%;
+  background-color:rgb(110, 84, 62);
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
   box-sizing: border-box;
@@ -50,8 +53,10 @@ h1 {
   margin: auto;
   margin-bottom: 10px;
   margin-top: 1%;
+  float: center;
   width: 80%;
-  border: 15px solid rgb(173, 158, 228);
+  background-color:rgb(110, 84, 62);
+  border: 15px solid rgb(194, 173, 149);
   padding: 8px;
   box-sizing: border-box;
 }
@@ -81,7 +86,6 @@ li {
   width: 80%;
   padding: 4px;
   font-size: larger;
-  text-align: left;
   box-sizing: border-box;
 }
 
@@ -90,14 +94,16 @@ ol {
   margin-top: 1%;
   margin-bottom: 1%;
   font-size: large;
-  width: 80%;
   text-align: left;
+  width: 80%;
   box-sizing: border-box;
 }
 
 ul {
   margin: auto;
   width: 80%;
+  font-size: larger;
+  float: left;
   box-sizing: border-box;
 }
 
@@ -149,7 +155,7 @@ ul {
 }
 
 body {
-  background-color:rgb(110, 84, 62);
+  Background-color: rgb(110, 84, 62);
   width: 80%;
   Font-family: courier;
   border: 15px solid rgb(173, 158, 228);
