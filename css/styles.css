@@ -1,27 +1,37 @@
 .title {
   margin: auto;
+  margin-bottom: 2%;
+  float: center;
   width: 80%;
-  border: 15px solid rgb(173, 158, 228);
-  padding: 8px;
+  border: 15px solid rgb(194, 173, 149);
+  padding: 20px;
   box-sizing: border-box;
 }
 
 p {
   margin: auto;
+  margin-top: 1%;
   width: 80%;
+  font-size: large;
   Font-family: courier;
   text-align: center;
+  box-sizing: border-box;
 }
 
 h1 {
   margin: auto;
+  margin-bottom: 1%;
+  margin-top: 1%;
   width: 80%;
   Font-family: courier;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .box1 {
   margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
   width: 80%;
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
@@ -39,6 +49,7 @@ h1 {
 .projects {
   margin: auto;
   margin-bottom: 10px;
+  margin-top: 1%;
   width: 80%;
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
@@ -47,8 +58,12 @@ h1 {
 
 h2 {
   margin: auto;
+  margin-bottom: 2%;
+  margin-top: 1%;
+  color: rgb(194, 173, 149);
   width: 80%;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .projects2{
@@ -56,56 +71,80 @@ h2 {
   width: 80%;
   padding: 4px;
   text-align: left;
+  box-sizing: border-box;
 }
 
 li {
   margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
   width: 80%;
+  padding: 4px;
+  font-size: larger;
+  text-align: left;
+  box-sizing: border-box;
 }
 
 ol {
   margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: large;
   width: 80%;
   text-align: left;
+  box-sizing: border-box;
 }
 
 ul {
   margin: auto;
-  width: 80%
+  width: 80%;
+  box-sizing: border-box;
 }
 
 .hobbies {
   margin: auto;
   width: 80%;
+  box-sizing: border-box;
+}
+
+.colorhobbie {
+  color:rgb(194, 173, 149);
 }
 
 .hobbies2 {
   margin: auto;
   width: 80%;
+  box-sizing: border-box;
 }
 
 .important {
   margin: auto;
   width: 80%;
   Font-family: courier;
+  box-sizing: border-box;
 }
 
 .centered-img {
   float: center;
+  margin: auto;
+  display: block;
   width: 80%;
+  height: auto;
+  background-color: rgb(194, 173, 149);
   border: 15px solid rgb(173, 158, 228);
   padding: 8px;
-  margin: auto;
-  
+  box-sizing: border-box;
 }
 
 .centered-himg {
   float: center;
-  width: 80%;
   margin: auto;
-  border: 15px solid rgb(82, 104, 67);
+  margin-bottom: 1%;
+  display: block;
+  width: 80%;
+  background-color: rgb(194, 173, 149);
+  border: 15px solid rgb(72, 95, 57);
   padding: 8px;
-  background-color:rgb(173, 158, 228);
   box-sizing: border-box;
 }
 
