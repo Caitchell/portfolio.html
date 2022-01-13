@@ -1,0 +1,62 @@
+p {
+margin: auto;
+width: 50%;
+text-align: center;
+}
+
+h1 {
+  margin: auto;
+  width: 50%;
+}
+
+h2 {
+  margin: auto;
+  width: 50%;
+}
+
+li {
+  margin: auto;
+  width: 50%;
+}
+
+ol {
+  margin: auto;
+  width: 50%;
+}
+
+ul {
+  margin: auto;
+  width: 50%;
+}
+
+.important {
+  margin: auto;
+  width: 50%;
+}
+
+.centered-img {
+  float: center;
+  width: 50%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.centered-himg {
+  float: center;
+  width: 50%;
+  border: 15px solid rgb(82, 104, 67);
+  padding: 8px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+body {
+  background-color:rgb(110, 84, 62);
+  width: 80%;
+  border: 15px solid rgb(173, 158, 228);
+  padding: 8px;
+  margin: auto;
+  box-sizing: border-box;
+}
