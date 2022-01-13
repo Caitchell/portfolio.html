@@ -1,10 +1,10 @@
 # Portfolio Landing Page
 
-### By_**{Caitlyn Mitchell}**_
+### By **Caitlyn Mitchell**
 
 ## Description
 
-#### _This Is My Portfolio webpage for all of my favorite coding projects._
+#### _This Is My Portfolio webpage for all of my favorite coding projects. In this webpage I demonstrate how well I use HTML and CSS structures. I've used typography styles, and box models to design my webpage._
 
 ## Technologies Used
 
@@ -14,6 +14,10 @@
 ####
 
 ## Setup/Installation
+* Clone this repository https://github.com/Caitchell/portfolio.html.git to your desktop using $ git clone "_________".
+* $ cd portfolio
+* $ git remote origin
+* $ git push origin main
 
 #### 
 
