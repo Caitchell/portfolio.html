@@ -16,8 +16,6 @@
 ## Setup/Installation
 * Open https://github.com/Caitchell/portfolio.html/blob/main/index.html to view my project.
 
-#### 
-
 ## Known Bugs
 
 #### None.
