@@ -14,10 +14,7 @@
 ####
 
 ## Setup/Installation
-* Clone this repository https://github.com/Caitchell/portfolio.html.git to your desktop using $ git clone "_________".
-* $ cd portfolio
-* $ git remote origin
-* $ git push origin main
+* Open https://github.com/Caitchell/portfolio.html/blob/main/index.html to view my project.
 
 #### 
 
